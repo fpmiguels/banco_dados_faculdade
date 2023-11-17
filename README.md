@@ -3,4 +3,4 @@ O primeiro script SQL foi desenvolvido para criar e definir a estrutura básica 
 
 O segundo são dados fictícios que podem ser inseridos no banco.
 
-O terceiro são códigos para manipulação dos dados.
+O terceiro são códigos para manipulação dos dados para consulta.
